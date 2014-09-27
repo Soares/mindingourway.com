@@ -1,0 +1,4 @@
+node_modules/
+config.js
+content/data/*.json
+content/data/*.db
